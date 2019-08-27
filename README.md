@@ -1,1 +1,1 @@
-# Modelo-Estat-stico
+# Modelo-Estatístico
