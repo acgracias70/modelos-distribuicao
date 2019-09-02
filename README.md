@@ -1,4 +1,4 @@
-# Modelo-Estatístico
+# Modelos de Distribuição
 
 
 O repositório pode ser acessado via o link: https://github.com/mkarrer237/modelos-distribuicao
